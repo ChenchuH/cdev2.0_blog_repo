@@ -1,0 +1,11 @@
+ {
+    "posts": [
+        {
+            "id": 1,
+            "slug": "test-post",
+            "title": "test post",
+            "date": "2026-11-02",
+            "content": "A test post for testing purposes."
+        }
+    ]
+ }
