@@ -3,7 +3,7 @@
 Quick random post for my blog to test if my markdown rendering, image embedding, and blog setup work properly. 
 
 ### Ordered from top-left to bottom-right:
-![Top 25 Video Games Chart](/imgs/top25games.png)
+![Top 25 Video Games Chart](https://raw.githubusercontent.com/ChenchuH/cdev2.0_blog_repo/master/imgs/top25games.png)
 
 ---
 
