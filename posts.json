@@ -2,10 +2,10 @@
     "posts": [
         {
             "id": 1,
-            "slug": "test-post",
-            "title": "test post",
-            "date": "2026-11-02",
-            "description": "A test post for testing purposes."
+            "slug": "My-definative-top-25-as-of-2526",
+            "title": "My Definative Top 25 video games as of 2526",
+            "date": "2526-11-23",
+            "description": "Quick random post of my top 25 video games as of 2526 to see if my markdown rendering and blog setup works"
         }
     ]
  }
